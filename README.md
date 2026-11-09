@@ -3,7 +3,7 @@ Na strankach https://sluzby.bakalari.cz/api/v1/municipality a nasledne
 https://sluzby.bakalari.cz/api/v1/municipality/a  
 *na konci odkazu lze uvadet i vice znaku, podle nich se vypisi konkretni skoly*
 
-Jednoduchym [skriptem](https://github.com/mlanger-ds/bakalari_verejny_seznam_skol/blob/main/Bak-weby.ps1) lze ziskat [seznam skol](), adres jejich bakalaru.
+Jednoduchym [skriptem](https://github.com/mlanger-ds/bakalari_verejny_seznam_skol/blob/main/Bak-weby.ps1) lze ziskat [seznam skol](https://github.com/mlanger-ds/bakalari_verejny_seznam_skol/blob/main/Bak-weby-201261109.csv), adres jejich bakalaru.
 
 ### Proc je to bezpecnostni riziko ? ###
 Pripadni utocnici maji k dispozici seznam adres kde bezi bakalari, mohou rovnou zkouset hledat, zneuzivat zranitelnosti.
