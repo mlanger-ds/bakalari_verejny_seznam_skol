@@ -6,7 +6,7 @@ https://sluzby.bakalari.cz/api/v1/municipality/a
 Jednoduchym skriptem lze ziskat seznam skol, adres jejich bakalaru.
 
 ### Proc je to bezpecnostni riziko ? ###
-Pripadni utocnici maji k dispozici seznam
+Pripadni utocnici maji k dispozici seznam adres kde bezi bakalari, mohou rovnou zkouset hledat, zneuzivat zranitelnosti.
 
 Podnet jsem zadaval Bakalarum jako #239920 28. 7. 2023. Po kratke diskuzi jsem dostal posledni odpoved 27. 9. 2023, ktera
 obsahovala cituji  
